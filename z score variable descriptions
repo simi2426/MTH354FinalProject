@@ -2,7 +2,7 @@
 |---------------------|----------------------------------|-----------------------------------------------|-----------|
 | BZMOSVT2 Index      | interbank_spot_vol_z             | brazil fx interbank spot volume               | bcb       |
 | SPX Index           | sp500_z                          | sp500                                         | bloomberg |
-| GT10 Govt           | 10yrust_z                        | generic gov 10 year                           | bloomberg |
+| GT10 Govt           | tenyr_us_treasury_z              | generic us gov 10 year bond                   | bloomberg |
 | MXWO Index          | msci_world_index_z               | MSCI World Index                              | bloomberg |
 | WORLD Index         | bloomberg_world_index_z          | Bloomberg Large / Mid Cap Price Index         | bloomberg |
 | ECOPPBRN Index      | cpi_z                            | brazil cpi index 2010 = 100                   | bloomberg |
@@ -22,4 +22,4 @@
 | citi_tot            | commodities_ToT_z                | citi commodities terms of trade               | bloomberg |
 | gs_tot              | terms_of_trade_z                 | price terms of trade index                    | bloomberg |
 | BZPQTTIN Index      | terms_of_trade_price_z           | terms of trade                                | bloomberg |
-| 5yr_cds             | 5yr_cds_z                        | 5-year cds                                    | bloomberg |
+| 5yr_cds             | fiveyr_brazil_cds                | 5-year cds                                    | bloomberg |
